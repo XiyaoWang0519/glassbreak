@@ -1,7 +1,3 @@
-Below is a sample README.md file you can include in your repository. This file details the repository structure, environment setup, build instructions, and testing steps for the Android application that runs your glass break detection model using the Edge Impulse C++ library.
-
----
-
 ```markdown
 # Glass Break Detection Android Prototype
 
